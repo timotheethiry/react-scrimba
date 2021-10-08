@@ -1,0 +1,12 @@
+.noQuestion {
+    display: none;
+}
+
+.question {
+    display: block;
+}
+
+.punchLine {
+    text-align: center;
+    color: #e00f0f;
+}
