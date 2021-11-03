@@ -1,0 +1,19 @@
+.todo-item {
+    margin: 0 0 1rem 0;
+    padding: 0.5rem;
+    border: solid 1px #555;
+    border-radius: 5px;
+}
+
+.todo-item input {
+    box-shadow: 0 0 3px #555;
+}
+
+.todo-item input:checked {
+    box-shadow: none;
+}
+
+.itemCompleted {
+    text-decoration: line-through;
+    color: gray;
+}
